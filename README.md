@@ -1,5 +1,3 @@
->如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料、面试资料，进阶、架构资料，都可以加上[QQ群](https://github.com/xieyuliang/Note-Android#qq%E7%BE%A4)领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
-
 # Note-Android
 
 Android知识笔记目录：  
@@ -342,9 +340,3 @@ Android知识笔记目录：
      * [反转整数](https://github.com/xieyuliang/Note-Android/blob/master/Docs/常见面试算法题汇总.md#反转整数)
      * [LRU缓存策略](https://github.com/xieyuliang/Note-Android/blob/master/Docs/常见面试算法题汇总.md#lru缓存策略)
 
-# Contanct Me
-如果觉得看起来比较麻烦，需要PDF版本，或是需要更多学习资料，都可以加上QQ群领取。祝愿每一位有追求的Android开发同胞都能进大厂拿高薪！
-
-## QQ群
-
-Android开发交流QQ群：**937659705**  （备注一下GitHub和你点进GitHub的那个平台，免得被认成打无良广告的）
